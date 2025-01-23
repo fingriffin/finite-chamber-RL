@@ -5,7 +5,7 @@ This repository contains code related to the paper **"BPS Spectroscopy with Rein
 ## Repository Structure
 - **/src**: Contains the main source code for the project.
 - **/results**: Stores outputs, figures, and results from the experiments.
-- -**/legacy**: Legacy mathematica code.
+- **/legacy**: Legacy mathematica code.
 
 
 ## Requirements
