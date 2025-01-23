@@ -25,3 +25,7 @@ Clone the repository and install the required packages:
 git clone https://github.com/fingriffin/schur-database.git
 cd schur-database
 pip install -r requirements.txt
+```
+
+## Running the code
+
