@@ -3,8 +3,7 @@
 This repository contains code related to the paper **"BPS Spectroscopy with Reinforcement Learning"**. 
 
 ## Repository Structure
-- **/src**: Contains the main source code for the project.
-- **/results**: Stores outputs, figures, and results from the experiments.
+- **/src**: Main source code.
 - **/legacy**: Legacy mathematica code.
 
 
