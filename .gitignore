@@ -1,0 +1,14 @@
+# Modify this to commit new mathematica changes.
+*.nb
+
+*.m
+
+*.nb~
+
+*.tmp
+
+init.m
+.Documentation/
+.FrontEnd/
+.Library/
+.System/
