@@ -1,6 +1,6 @@
 # BPS Spectroscopy with Reinforcement Learning
 
-This repository contains code related to the paper **"BPS Spectroscopy with Reinforcement Learning"**. 
+This repository contains code related to the paper **"BPS Spectroscopy with Reinforcement Learning"** arXiv:2501.14863. 
 
 ## Repository Structure
 - **/src**: Main source code.
